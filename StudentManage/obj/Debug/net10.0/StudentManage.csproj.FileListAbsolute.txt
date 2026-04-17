@@ -1,0 +1,15 @@
+C:\Users\sreya\Desktop\WiproNFSD\Day3\StudentManage\obj\Debug\net10.0\StudentManage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sreya\Desktop\WiproNFSD\Day3\StudentManage\obj\Debug\net10.0\StudentManage.AssemblyInfoInputs.cache
+C:\Users\sreya\Desktop\WiproNFSD\Day3\StudentManage\obj\Debug\net10.0\StudentManage.AssemblyInfo.cs
+C:\Users\sreya\Desktop\WiproNFSD\Day3\StudentManage\obj\Debug\net10.0\StudentManage.csproj.CoreCompileInputs.cache
+C:\Users\sreya\Desktop\WiproNFSD\Day3\StudentManage\obj\Debug\net10.0\StudentManage.sourcelink.json
+C:\Users\sreya\Desktop\WiproNFSD\Day3\StudentManage\bin\Debug\net10.0\StudentManage.exe
+C:\Users\sreya\Desktop\WiproNFSD\Day3\StudentManage\bin\Debug\net10.0\StudentManage.deps.json
+C:\Users\sreya\Desktop\WiproNFSD\Day3\StudentManage\bin\Debug\net10.0\StudentManage.runtimeconfig.json
+C:\Users\sreya\Desktop\WiproNFSD\Day3\StudentManage\bin\Debug\net10.0\StudentManage.dll
+C:\Users\sreya\Desktop\WiproNFSD\Day3\StudentManage\bin\Debug\net10.0\StudentManage.pdb
+C:\Users\sreya\Desktop\WiproNFSD\Day3\StudentManage\obj\Debug\net10.0\StudentManage.dll
+C:\Users\sreya\Desktop\WiproNFSD\Day3\StudentManage\obj\Debug\net10.0\refint\StudentManage.dll
+C:\Users\sreya\Desktop\WiproNFSD\Day3\StudentManage\obj\Debug\net10.0\StudentManage.pdb
+C:\Users\sreya\Desktop\WiproNFSD\Day3\StudentManage\obj\Debug\net10.0\StudentManage.genruntimeconfig.cache
+C:\Users\sreya\Desktop\WiproNFSD\Day3\StudentManage\obj\Debug\net10.0\ref\StudentManage.dll

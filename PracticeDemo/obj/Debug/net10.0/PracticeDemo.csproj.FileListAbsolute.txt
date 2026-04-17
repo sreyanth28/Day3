@@ -1,0 +1,15 @@
+C:\Users\sreya\Desktop\WiproNFSD\Day3\PracticeDemo\bin\Debug\net10.0\PracticeDemo.exe
+C:\Users\sreya\Desktop\WiproNFSD\Day3\PracticeDemo\bin\Debug\net10.0\PracticeDemo.deps.json
+C:\Users\sreya\Desktop\WiproNFSD\Day3\PracticeDemo\bin\Debug\net10.0\PracticeDemo.runtimeconfig.json
+C:\Users\sreya\Desktop\WiproNFSD\Day3\PracticeDemo\bin\Debug\net10.0\PracticeDemo.dll
+C:\Users\sreya\Desktop\WiproNFSD\Day3\PracticeDemo\bin\Debug\net10.0\PracticeDemo.pdb
+C:\Users\sreya\Desktop\WiproNFSD\Day3\PracticeDemo\obj\Debug\net10.0\PracticeDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sreya\Desktop\WiproNFSD\Day3\PracticeDemo\obj\Debug\net10.0\PracticeDemo.AssemblyInfoInputs.cache
+C:\Users\sreya\Desktop\WiproNFSD\Day3\PracticeDemo\obj\Debug\net10.0\PracticeDemo.AssemblyInfo.cs
+C:\Users\sreya\Desktop\WiproNFSD\Day3\PracticeDemo\obj\Debug\net10.0\PracticeDemo.csproj.CoreCompileInputs.cache
+C:\Users\sreya\Desktop\WiproNFSD\Day3\PracticeDemo\obj\Debug\net10.0\PracticeDemo.sourcelink.json
+C:\Users\sreya\Desktop\WiproNFSD\Day3\PracticeDemo\obj\Debug\net10.0\PracticeDemo.dll
+C:\Users\sreya\Desktop\WiproNFSD\Day3\PracticeDemo\obj\Debug\net10.0\refint\PracticeDemo.dll
+C:\Users\sreya\Desktop\WiproNFSD\Day3\PracticeDemo\obj\Debug\net10.0\PracticeDemo.pdb
+C:\Users\sreya\Desktop\WiproNFSD\Day3\PracticeDemo\obj\Debug\net10.0\PracticeDemo.genruntimeconfig.cache
+C:\Users\sreya\Desktop\WiproNFSD\Day3\PracticeDemo\obj\Debug\net10.0\ref\PracticeDemo.dll

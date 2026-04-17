@@ -1,0 +1,15 @@
+C:\Users\sreya\Desktop\WiproNFSD\Day3\clsobj\bin\Debug\net10.0\clsobj.exe
+C:\Users\sreya\Desktop\WiproNFSD\Day3\clsobj\bin\Debug\net10.0\clsobj.deps.json
+C:\Users\sreya\Desktop\WiproNFSD\Day3\clsobj\bin\Debug\net10.0\clsobj.runtimeconfig.json
+C:\Users\sreya\Desktop\WiproNFSD\Day3\clsobj\bin\Debug\net10.0\clsobj.dll
+C:\Users\sreya\Desktop\WiproNFSD\Day3\clsobj\bin\Debug\net10.0\clsobj.pdb
+C:\Users\sreya\Desktop\WiproNFSD\Day3\clsobj\obj\Debug\net10.0\clsobj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sreya\Desktop\WiproNFSD\Day3\clsobj\obj\Debug\net10.0\clsobj.AssemblyInfoInputs.cache
+C:\Users\sreya\Desktop\WiproNFSD\Day3\clsobj\obj\Debug\net10.0\clsobj.AssemblyInfo.cs
+C:\Users\sreya\Desktop\WiproNFSD\Day3\clsobj\obj\Debug\net10.0\clsobj.csproj.CoreCompileInputs.cache
+C:\Users\sreya\Desktop\WiproNFSD\Day3\clsobj\obj\Debug\net10.0\clsobj.sourcelink.json
+C:\Users\sreya\Desktop\WiproNFSD\Day3\clsobj\obj\Debug\net10.0\clsobj.dll
+C:\Users\sreya\Desktop\WiproNFSD\Day3\clsobj\obj\Debug\net10.0\refint\clsobj.dll
+C:\Users\sreya\Desktop\WiproNFSD\Day3\clsobj\obj\Debug\net10.0\clsobj.pdb
+C:\Users\sreya\Desktop\WiproNFSD\Day3\clsobj\obj\Debug\net10.0\clsobj.genruntimeconfig.cache
+C:\Users\sreya\Desktop\WiproNFSD\Day3\clsobj\obj\Debug\net10.0\ref\clsobj.dll

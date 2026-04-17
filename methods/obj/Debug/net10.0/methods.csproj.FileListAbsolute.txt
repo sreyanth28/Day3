@@ -1,0 +1,15 @@
+C:\Users\sreya\Desktop\WiproNFSD\Day3\methods\bin\Debug\net10.0\methods.exe
+C:\Users\sreya\Desktop\WiproNFSD\Day3\methods\bin\Debug\net10.0\methods.deps.json
+C:\Users\sreya\Desktop\WiproNFSD\Day3\methods\bin\Debug\net10.0\methods.runtimeconfig.json
+C:\Users\sreya\Desktop\WiproNFSD\Day3\methods\bin\Debug\net10.0\methods.dll
+C:\Users\sreya\Desktop\WiproNFSD\Day3\methods\bin\Debug\net10.0\methods.pdb
+C:\Users\sreya\Desktop\WiproNFSD\Day3\methods\obj\Debug\net10.0\methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sreya\Desktop\WiproNFSD\Day3\methods\obj\Debug\net10.0\methods.AssemblyInfoInputs.cache
+C:\Users\sreya\Desktop\WiproNFSD\Day3\methods\obj\Debug\net10.0\methods.AssemblyInfo.cs
+C:\Users\sreya\Desktop\WiproNFSD\Day3\methods\obj\Debug\net10.0\methods.csproj.CoreCompileInputs.cache
+C:\Users\sreya\Desktop\WiproNFSD\Day3\methods\obj\Debug\net10.0\methods.sourcelink.json
+C:\Users\sreya\Desktop\WiproNFSD\Day3\methods\obj\Debug\net10.0\methods.dll
+C:\Users\sreya\Desktop\WiproNFSD\Day3\methods\obj\Debug\net10.0\refint\methods.dll
+C:\Users\sreya\Desktop\WiproNFSD\Day3\methods\obj\Debug\net10.0\methods.pdb
+C:\Users\sreya\Desktop\WiproNFSD\Day3\methods\obj\Debug\net10.0\methods.genruntimeconfig.cache
+C:\Users\sreya\Desktop\WiproNFSD\Day3\methods\obj\Debug\net10.0\ref\methods.dll
