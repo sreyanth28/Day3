@@ -1,0 +1,14 @@
+C:\Users\sreya\Desktop\WiproNFSD\Day3\Unboxandbox\bin\Debug\net10.0\Unboxandbox.exe
+C:\Users\sreya\Desktop\WiproNFSD\Day3\Unboxandbox\bin\Debug\net10.0\Unboxandbox.deps.json
+C:\Users\sreya\Desktop\WiproNFSD\Day3\Unboxandbox\bin\Debug\net10.0\Unboxandbox.runtimeconfig.json
+C:\Users\sreya\Desktop\WiproNFSD\Day3\Unboxandbox\bin\Debug\net10.0\Unboxandbox.dll
+C:\Users\sreya\Desktop\WiproNFSD\Day3\Unboxandbox\bin\Debug\net10.0\Unboxandbox.pdb
+C:\Users\sreya\Desktop\WiproNFSD\Day3\Unboxandbox\obj\Debug\net10.0\Unboxandbox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sreya\Desktop\WiproNFSD\Day3\Unboxandbox\obj\Debug\net10.0\Unboxandbox.AssemblyInfoInputs.cache
+C:\Users\sreya\Desktop\WiproNFSD\Day3\Unboxandbox\obj\Debug\net10.0\Unboxandbox.AssemblyInfo.cs
+C:\Users\sreya\Desktop\WiproNFSD\Day3\Unboxandbox\obj\Debug\net10.0\Unboxandbox.csproj.CoreCompileInputs.cache
+C:\Users\sreya\Desktop\WiproNFSD\Day3\Unboxandbox\obj\Debug\net10.0\Unboxandbox.dll
+C:\Users\sreya\Desktop\WiproNFSD\Day3\Unboxandbox\obj\Debug\net10.0\refint\Unboxandbox.dll
+C:\Users\sreya\Desktop\WiproNFSD\Day3\Unboxandbox\obj\Debug\net10.0\Unboxandbox.pdb
+C:\Users\sreya\Desktop\WiproNFSD\Day3\Unboxandbox\obj\Debug\net10.0\Unboxandbox.genruntimeconfig.cache
+C:\Users\sreya\Desktop\WiproNFSD\Day3\Unboxandbox\obj\Debug\net10.0\ref\Unboxandbox.dll
